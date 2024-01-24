@@ -1,4 +1,4 @@
-A-to-Z DSA Questions from Striver's DSA Sheet
+#A-to-Z DSA Questions from Striver's DSA Sheet
 Overview
 This repository is a comprehensive collection of data structures and algorithms (DSA) questions, organized in alphabetical order, based on the Striver's DSA sheet. Striver's DSA sheet is a popular resource among competitive programmers and interviewees, and this repository aims to provide solutions and explanations for each problem.
 
