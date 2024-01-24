@@ -16,7 +16,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/striver-dsa-questions.git
+git clone https://github.com/ppg5018/striverA2Z.git
 cd striver-dsa-questions
 Navigate to a Specific Question:
 The questions are organized alphabetically, making it easy to find a specific problem. Each question is in its dedicated directory with a name indicative of the problem.
